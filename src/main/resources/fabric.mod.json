@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "coppermaterials",
   "version": "${version}",
 
   "name": "Copper Materials",
-  "description": "Adds currently missing copper items from the new 1.17 update.",
+  "description": "Adds currently missing copper items from the new 1.17/1.18 update.",
   "authors": [
     "MichaelSixtyFour"
   ],
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/coppermaterials/icon.png",
 
   "environment": "*",
@@ -23,11 +23,11 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.7.4",
+    "fabricloader": ">=0.11.3",
     "fabric": "*",
-    "minecraft": "1.17-alpha.20.51.a"
+    "minecraft": "1.18.x"
   },
   "suggests": {
-    "another-mod": "*"
+    "indrev": "*"
   }
 }

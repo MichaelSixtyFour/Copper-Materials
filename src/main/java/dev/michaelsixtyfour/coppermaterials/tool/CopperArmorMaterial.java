@@ -9,8 +9,6 @@ import net.minecraft.sound.SoundEvents;
 
 public class CopperArmorMaterial implements ArmorMaterial {
 
-    public static final CopperArmorMaterial INSTANCE = new CopperArmorMaterial();
-
     private static final int[] BASE_DURABILITY = new int[] {13, 15, 16, 11};
     private static final int[] PROTECTION_VALUES = new int[] {1, 2, 3, 2};
 
@@ -41,7 +39,7 @@ public class CopperArmorMaterial implements ArmorMaterial {
 
     @Override
     public String getName() {
-        return "name";
+        return "copper";
     }
 
     @Override

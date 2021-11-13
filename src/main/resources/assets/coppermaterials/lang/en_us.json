@@ -7,5 +7,10 @@
   "item.coppermaterials.copper_sword": "Copper Sword",
   "item.coppermaterials.copper_pickaxe": "Copper Pickaxe",
   "item.coppermaterials.copper_axe": "Copper Axe",
-  "item.coppermaterials.copper_hoe": "Copper Hoe"
+  "item.coppermaterials.copper_hoe": "Copper Hoe",
+
+  "item.coppermaterials.copper_helmet": "Copper Helmet",
+  "item.coppermaterials.copper_chestplate": "Copper Chestplate",
+  "item.coppermaterials.copper_leggings": "Copper Leggings",
+  "item.coppermaterials.copper_boots": "Copper Boots"
 }
